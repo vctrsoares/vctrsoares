@@ -14,7 +14,7 @@ Curiosidade 🔍: Cantor nas horas vagas =)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vctrsoares)
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vctrsoares&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctrsoares&layout=donut)](https://github.com/vctrsoares/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vctrsoares.app/api/top-langs/?username=vctrsoares&layout=donut)](https://github.com/vctrsoares/github-readme-stats)
 
 # Principais Tecnologias: 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
