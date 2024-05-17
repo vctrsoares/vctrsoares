@@ -7,6 +7,10 @@
 Trainee de Desenvolvimento Mobile na TITAN [![Titan](https://camo.githubusercontent.com/0aebee5c2f8fa83ccf3a04f4e5ed6fb79a7ccfd13791c98647da882a6adff060/68747470733a2f2f7777772e746974616e63692e636f6d2e62722f5f6e6578742f7374617469632f6d656469612f4c6f676f4865616465722e36306461616664632e737667)](https://www.titanci.com.br/)
 
 Curiosidade 🔍: Cantor nas horas vagas =)
+
+# Metas de aprendizado:
+
+Com o programa Trainee, e outros projetos que me encorajei a iniciar, além do PTdev, espero ingressar inteiramente na área, poder entender e desenvolver cada vez mais coisas, me tornando expert na linguagem Dart, conhecendo outras também. Sairei do meu primeiro Programa Trainee conhecendo suficientemente a linguagem e com a numenclatura de Dev Mobile!
  
 # Onde você pode me encontrar: 🕵️
 
@@ -14,7 +18,7 @@ Curiosidade 🔍: Cantor nas horas vagas =)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vctrsoares)
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=vctrsoares&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vctrsoares.app/api/top-langs/?username=vctrsoares&layout=donut)](https://github.com/vctrsoares/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vctrsoares&layout=donut)](https://github.com/vctrsoares/github-readme-stats)
 
 # Principais Tecnologias: 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
